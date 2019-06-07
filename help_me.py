@@ -19,6 +19,6 @@ def getName(fxn):
 @getTime
 @getName
 def adder(x,y):
-    return x + y
+    return x + y + "Daniel wuz here"
 
 print adder(4,5)
